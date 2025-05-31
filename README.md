@@ -30,13 +30,13 @@ Bu React tabanlı web uygulaması, [Rick and Morty API](https://rickandmortyapi.
 
 ## 📸 Uygulama Görünümü
 
-```md
+
 ![home](./public/home.png)
 ![caharctar](./public/charactars.png)
 ![episodeandlocation](./public/episodeandlocation.png)
-``` 
 
 ## 🧰 Kurulum ve Çalıştırma
+
 ### 1. Bu projeyi klonlayın:
 ```bash
 git clone https://github.com/kullaniciadi/rick-and-morty-app.git
