@@ -41,16 +41,18 @@ Bu React tabanlı web uygulaması, [Rick and Morty API](https://rickandmortyapi.
 ```bash
 git clone https://github.com/kullaniciadi/rick-and-morty-app.git
 cd rick-and-morty-app
-
+``` 
 ### 2.Gerekli bağımlılıkları yükleyin:
 ```bash
 npm install
+```
 
 ### 3.Geliştirme sunucusunu başlatın:
 ```bash
 npm run dev
 # veya
 npm start
+```
 
 ### 4.Tarayıcınızda şu adresi açın:
 ```bash
