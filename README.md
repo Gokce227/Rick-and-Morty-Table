@@ -34,6 +34,7 @@ Bu React tabanlı web uygulaması, [Rick and Morty API](https://rickandmortyapi.
 ![home](./public/home.png)
 ![caharctar](./public/charactars.png)
 ![episodeandlocation](./public/episodeandlocation.png)
+``` 
 
 ## 🧰 Kurulum ve Çalıştırma
 ### 1. Bu projeyi klonlayın:
