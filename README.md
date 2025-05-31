@@ -34,10 +34,6 @@ Projeyi canlı olarak aşağıdaki adresten inceleyebilirsiniz:
 
 [https://gokce227.github.io/Rick-and-Morty-Table](https://gokce227.github.io/Rick-and-Morty-Table)
 
-— veya —
-
-[https://your-vercel-project.vercel.app](https://your-vercel-project.vercel.app)
-
 
 ## 📸 Uygulama Görünümü
 
