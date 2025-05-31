@@ -3,8 +3,9 @@ import CharacterTable from './CharacterTable'
 
 const Home = () => {
   return (
+    // Burdan Karakter Tablosunu gidicek
     <div>
-      <CharacterTable/>
+      <CharacterTable/> 
     </div>
   )
 }
