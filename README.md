@@ -32,8 +32,7 @@ Bu React tabanlı web uygulaması, [Rick and Morty API](https://rickandmortyapi.
 
 Projeyi canlı olarak aşağıdaki adresten inceleyebilirsiniz:
 
-[https://gokce227.github.io/Rick-and-Morty-Table](https://Gokce227.github.io/Rick-and-Morty-Table/#/
-)
+[https://Gokce227.github.io/Rick-and-Morty-Table/#/](https://Gokce227.github.io/Rick-and-Morty-Table/#/)
 
 
 ## 📸 Uygulama Görünümü
